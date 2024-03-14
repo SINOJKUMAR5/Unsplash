@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "812403812057",
+    "project_id": "realview-2c08b",
+    "storage_bucket": "realview-2c08b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812403812057:android:4cb621fd29a024a4cfc0c8",
+        "android_client_info": {
+          "package_name": "com.example.unsplash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812403812057-3571lq2ilahalblf1kh9sorn3n8keve7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI-tRuPphf-dPWkK92mDRFPIx8R1ByGzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812403812057-3571lq2ilahalblf1kh9sorn3n8keve7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
